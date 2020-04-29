@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Toast message',
       theme: ThemeData(primaryColor: Colors.blue),
-      home: MyPage(),
+      home: MyPage() ,
     );
   }
 }
